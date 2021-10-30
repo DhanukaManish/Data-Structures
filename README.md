@@ -1,1 +1,50 @@
-# data-structures
+# Leetcode's 2 Weeks Study Plan to Tackle Data Structures Solutions
+
+## About
+This repository includes my solutions to all questions under leetcode's 2 weeks study plan to tackle data structures. This problems mostly consist of real interview questions that are asked on big companies. If you find my solutions hard to comprehend, give yourself a time to solve easier questions or check discussion section to problem on [LeetCode.](https://leetcode.com/)
+
+## List of Problems
+| #    | Problem                                                                                                                                | Solution                                                                                                              |
+| ---- | -------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| 1    | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                                           | [Java](https://github.com/DhanukaManish/Data-Structures/blob/main/leetcode/src/main/java/solutions/Problem_217.java)  |
+| 2    | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                                                | [Java](https://github.com/DhanukaManish/Data-Structures/blob/main/leetcode/src/main/java/solutions/Problem_53.java)   |
+| 3    | [1. Two Sum](https://leetcode.com/problems/two-sum/)                                                                                   | [Java](https://github.com/DhanukaManish/Data-Structures/blob/main/leetcode/src/main/java/solutions/Problem_1.java)    |
+| 4    | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)                                                             | [Java](https://github.com/DhanukaManish/Data-Structures/blob/main/leetcode/src/main/java/solutions/Problem_88.java)   |
+| 5    | [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii)                                      | [Java](https://github.com/DhanukaManish/Data-Structures/blob/main/leetcode/src/main/java/solutions/Problem_350.java)  |
+| 6    | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)                                  | [Java](https://github.com/DhanukaManish/Data-Structures/blob/main/leetcode/src/main/java/solutions/Problem_121.java)  |
+| 7    | [566. Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix)                                                            | [Java](https://github.com/DhanukaManish/Data-Structures/blob/main/leetcode/src/main/java/solutions/Problem_566.java)  |
+| 8    | [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)                                                               | [Java](https://github.com/DhanukaManish/Data-Structures/blob/main/leetcode/src/main/java/solutions/Problem_118.java)  |
+| 9    | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku)                                                                         | [Java](https://github.com/DhanukaManish/Data-Structures/blob/main/leetcode/src/main/java/solutions/Problem_36.java)   |
+| 10   | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix)                                                             | [Java](https://github.com/DhanukaManish/Data-Structures/blob/main/leetcode/src/main/java/solutions/Problem_74.java)   |
+| 11   | [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string)                            | [Java](https://github.com/DhanukaManish/Data-Structures/blob/main/leetcode/src/main/java/solutions/Problem_387.java)  |
+| 12   | [383. Ransom Note](https://leetcode.com/problems/ransom-note)                                                                          | [Java](https://github.com/DhanukaManish/Data-Structures/blob/main/leetcode/src/main/java/solutions/Problem_383.java)  |
+| 13   | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram)                                                                      | [Java](https://github.com/DhanukaManish/Data-Structures/blob/main/leetcode/src/main/java/solutions/Problem_242.java)  |
+| 14   | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)                                                              | [Java](https://github.com/DhanukaManish/Data-Structures/blob/main/leetcode/src/main/java/solutions/Problem_141.java)  |
+| 15   | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)                                                     | [Java](https://github.com/DhanukaManish/Data-Structures/blob/main/leetcode/src/main/java/solutions/Problem_21.java)   |
+| 16   | [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements)                                          | [Java](https://github.com/DhanukaManish/Data-Structures/blob/main/leetcode/src/main/java/solutions/Problem_203.java)  |
+| 17   | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)                                                          | [Java](https://github.com/DhanukaManish/Data-Structures/blob/main/leetcode/src/main/java/solutions/Problem_206.java)  |
+| 18   | [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list)                             | [Java](https://github.com/DhanukaManish/Data-Structures/blob/main/leetcode/src/main/java/solutions/Problem_83.java)   |
+| 19   | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses)                                                               | [Java](https://github.com/DhanukaManish/Data-Structures/blob/main/leetcode/src/main/java/solutions/Problem_20.java)   |
+| 20   | [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks)                                        | [Java](https://github.com/DhanukaManish/Data-Structures/blob/main/leetcode/src/main/java/solutions/Problem_232.java)  |
+| 21   | [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal)                                    | [Java](https://github.com/DhanukaManish/Data-Structures/blob/main/leetcode/src/main/java/solutions/Problem_144.java)  |
+| 22   | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)                                       | [Java](https://github.com/DhanukaManish/Data-Structures/blob/main/leetcode/src/main/java/solutions/Problem_94.java)   |
+| 23   | [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal)                                  | [Java](https://github.com/DhanukaManish/Data-Structures/blob/main/leetcode/src/main/java/solutions/Problem_145.java)  |
+| 24   | [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal)                              | [Java](https://github.com/DhanukaManish/Data-Structures/blob/main/leetcode/src/main/java/solutions/Problem_102.java)  |
+| 25   | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)                                        | [Java](https://github.com/DhanukaManish/Data-Structures/blob/main/leetcode/src/main/java/solutions/Problem_104.java)  |
+| 26   | [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree)                                                                    | [Java](https://github.com/DhanukaManish/Data-Structures/blob/main/leetcode/src/main/java/solutions/Problem_101.java)  |
+| 27   | [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)                                                            | [Java](https://github.com/DhanukaManish/Data-Structures/blob/main/leetcode/src/main/java/solutions/Problem_226.java)  |
+| 28   | [112. Path Sum](https://leetcode.com/problems/path-sum)                                                                                | [Java](https://github.com/DhanukaManish/Data-Structures/blob/main/leetcode/src/main/java/solutions/Problem_112.java)  |
+| 29   | [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree)                                    | [Java](https://github.com/DhanukaManish/Data-Structures/blob/main/leetcode/src/main/java/solutions/Problem_700.java)  |
+| 30   | [701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree)                                | [Java](https://github.com/DhanukaManish/Data-Structures/blob/main/leetcode/src/main/java/solutions/Problem_701.java)  |
+| 31   | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)                                           | [Java](https://github.com/DhanukaManish/Data-Structures/blob/main/leetcode/src/main/java/solutions/Problem_98.java)   |
+| 32   | [653. Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst)                                            | [Java](https://github.com/DhanukaManish/Data-Structures/blob/main/leetcode/src/main/java/solutions/Problem_653.java)  |
+| 33   | [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree)    | [Java](https://github.com/DhanukaManish/Data-Structures/blob/main/leetcode/src/main/java/solutions/Problem_235.java)  |
+
+## Built With
+[Java](https://www.java.com/en/), Made with ❤️
+
+## Contributing
+Please open a pull request if you need!
+
+## Author
+[Manish Dhanuka](https://leetcode.com/manishdhanuka/) as on leetcode.

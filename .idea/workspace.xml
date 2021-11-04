@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="30ed4e17-e97b-417e-8e04-ccfea6d22424" name="Changes" comment="Solution to leetcode problem 53. Maximum Subarray">
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/solutions/Problem_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="30ed4e17-e97b-417e-8e04-ccfea6d22424" name="Changes" comment="workspace.xml" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -159,7 +156,21 @@
       <option name="project" value="LOCAL" />
       <updated>1635876761348</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Solution to leetcode problem 1. Two Sum">
+      <created>1636046076729</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1636046076729</updated>
+    </task>
+    <task id="LOCAL-00005" summary="workspace.xml">
+      <created>1636046109455</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1636046109455</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -178,6 +189,8 @@
     <MESSAGE value="Added maven module" />
     <MESSAGE value="Solution to leetcode problem 217. Contains Duplicate" />
     <MESSAGE value="Solution to leetcode problem 53. Maximum Subarray" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solution to leetcode problem 53. Maximum Subarray" />
+    <MESSAGE value="Solution to leetcode problem 1. Two Sum" />
+    <MESSAGE value="workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="workspace.xml" />
   </component>
 </project>
